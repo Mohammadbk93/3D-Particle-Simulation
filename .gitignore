@@ -1,0 +1,8 @@
+# Ignore virtual env, cache, and build files
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.DS_Store
