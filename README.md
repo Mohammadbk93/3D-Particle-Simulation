@@ -45,7 +45,7 @@ I used two approaches:
 
 ### • Build a distributable installation package  
 > **Implemented via PyInstaller**  
-We used **PyInstaller** to convert Python scripts into standalone `.exe` executables for Windows. These packages include all necessary dependencies, making them portable and easy to run on any machine without requiring Python installation.  
+I used **PyInstaller** to convert Python scripts into standalone `.exe` executables for Windows. These packages include all necessary dependencies, making them portable and easy to run on any machine without requiring Python installation.  
 📦 Output Folder: `/dist/`  
 📄 Config Files: `*.spec`
 <img width="519" height="47" alt="3D_par_sim_2" src="https://github.com/user-attachments/assets/51194046-b51e-4723-bdc7-5d3249239bc8" />
